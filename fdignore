@@ -1,0 +1,15 @@
+.bundle
+.cache
+.cargo
+.config
+.gem
+.git/
+.local
+.mozilla
+.nvm
+__pycache__
+.pylint.d
+.vagrant.d
+.vim
+.vimundo
+.virtualenvs
